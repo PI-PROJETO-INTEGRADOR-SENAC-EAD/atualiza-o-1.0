@@ -17,8 +17,18 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - Html
 - Css
 
-## 📁 Como baixar o projeto
+## 📁 Integrantes Envolvidos
 
+* **Grupo 19**
+- ANDERSON LUIZ MAESTRI
+- AUGUSTO MARTINS RODRIGUES DOS SANTOS
+- DANIEL DOMINGOS DE SOUZA
+- ESTHER WYSE DE LUCENA
+- FAGNER XAVIER DE MATOS CAMELO
+- JOAO VICTOR BRAZ NUNES
+- MATEUS WENZLER PINTO
+
+## 📁 Como baixar o projeto
 
  ```bash
 $ git clone 
